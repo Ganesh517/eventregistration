@@ -13,7 +13,7 @@ To create a UX design and develop a web application for event registration.
 ![output](./static/img/exp082.png)
 ## WIREFRAME:
 ## PROTOTYPE:
-![output](./static/img/expgani.png)
+![output](./static/img/exp08gani.png)
 
 ## PROGRAM:
 ## home.html
